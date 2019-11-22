@@ -1,0 +1,11 @@
+MLB Yearly Average Runs/Game	MLB Yearly Average Slugging Percentage
+4.83	0.435
+4.45	0.409
+4.65	0.426
+4.48	0.417
+4.25	0.405
+4.07	0.386
+4.17	0.396
+4.32	0.405
+4.28	0.399
+4.38	0.403
