@@ -4,6 +4,7 @@
 df <- read.csv(file="data.txt")
 
 #Create a barchart for the means of the four populations
+library(ggplot2)
 a=ggplot(df, aes(region,observations)) + stat_summary(geom="bar", fun.y="mean")
 a
 
